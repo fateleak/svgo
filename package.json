@@ -1,5 +1,5 @@
 {
-  "name": "svgo",
+  "name": "svgo-lite",
   "version": "1.1.1",
   "description": "Nodejs-based tool for optimizing SVG vector graphics files",
   "keywords": [
@@ -8,9 +8,9 @@
     "optimize",
     "minify"
   ],
-  "homepage": "https://github.com/svg/svgo",
+  "homepage": "https://github.com/fateleak/svgo",
   "bugs": {
-    "url": "https://github.com/svg/svgo/issues",
+    "url": "https://github.com/fateleak/svgo/issues",
     "email": "kir@soulshine.in"
   },
   "author": {

@@ -1,3 +1,9 @@
+some custom op for project kongmes
+
+[kongmes](http://kongproject.com/p/kongmes)
+
+
+
 **english** | [русский](https://github.com/svg/svgo/blob/master/README.ru.md)
 - - -
 
