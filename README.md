@@ -1,8 +1,8 @@
-some custom op for project kongmes
+# some custom op for project kongmes
 
 [kongmes](http://kongproject.com/p/kongmes)
 
-
+DO NOT USE THIS CODE IN ANY PROJECT, BECAUSE IT IS CUSTOMIZED, MAGICALLY REWRITE IN DRUNK.
 
 **english** | [русский](https://github.com/svg/svgo/blob/master/README.ru.md)
 - - -
